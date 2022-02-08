@@ -19,7 +19,7 @@ public class T2212 {
         }
 
         int answer = solution(N, K, sensors);
-        System.out.println("answer = " + answer);
+        System.out.println(answer);
     }
 
     private static int solution(int N, int K, int[] sensors) {
