@@ -13,4 +13,7 @@
 - Baekjoon 1074 **Z**
   - 문제 : https://www.acmicpc.net/problem/1074
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/greedy/baekjoon/T1074.java
+- Baekjoon 7490 **0 만들기**
+  - 문제 : https://www.acmicpc.net/problem/7490
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/greedy/baekjoon/T7490.java
 
