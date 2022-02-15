@@ -17,3 +17,10 @@
   - 문제 : https://www.acmicpc.net/problem/7490
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/greedy/baekjoon/T7490.java
 
+## Search
+- Baekjoon 2110 **공유기 설치**
+  - 문제 : https://www.acmicpc.net/problem/2110
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/T2110.java
+- Baekjoon 1939 **중량제한**
+  - 문제 : https://www.acmicpc.net/problem/1939
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/T1939.java
