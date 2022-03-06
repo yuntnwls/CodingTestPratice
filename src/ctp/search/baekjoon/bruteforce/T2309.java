@@ -1,4 +1,4 @@
-package ctp.search.baekjoon;
+package ctp.search.baekjoon.bruteforce;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
