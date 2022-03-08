@@ -27,9 +27,9 @@
 - Baekjoon 2309 **일곱난장이**
   - 문제 : https://www.acmicpc.net/problem/2309
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/bruteforce/T2309.java
-- Baekjoon 2309 **트리의 높이와 너비**
+- Baekjoon 2250 **트리의 높이와 너비**
   - 문제 : https://www.acmicpc.net/problem/2250
-  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/tree/2250.java
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/tree/T2250.java
 
 ## Sorting
 - Programmers **가장 큰 수**
@@ -38,9 +38,9 @@
 - Programmers **H-Index**
   - 문제 : https://programmers.co.kr/learn/courses/30/lessons/42747
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/sorting/programmers/T42747.java
-- Baekjoon **줄 세우기**
+- Baekjoon 2252 **줄 세우기**
   - 문제 : https://www.acmicpc.net/problem/2252
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/sorting/baekjoon/T2252.java
-- Baekjoon **문제집**
+- Baekjoon 1766 **문제집**
   - 문제 : https://www.acmicpc.net/problem/1766
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/sorting/baekjoon/T1766.java
