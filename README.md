@@ -44,3 +44,8 @@
 - Baekjoon 1766 **문제집**
   - 문제 : https://www.acmicpc.net/problem/1766
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/sorting/baekjoon/T1766.java
+
+## Graph
+- Baekjoon 10282 **해킹**
+  - 문제 : https://www.acmicpc.net/problem/10282
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/graph/baekjoon/T10282.java
