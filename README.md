@@ -49,3 +49,6 @@
 - Baekjoon 10282 **해킹**
   - 문제 : https://www.acmicpc.net/problem/10282
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/graph/baekjoon/T10282.java
+- Baekjoon 5719 **거의 최단 경로**
+  - 문제 : https://www.acmicpc.net/problem/5719
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/graph/baekjoon/T5719.java
