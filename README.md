@@ -1,4 +1,4 @@
-# 코딩 테스트를 위한 연습
+ # 코딩 테스트를 위한 연습
 
 ## Greedy
 - Baekjoon 2212 **센서**
@@ -52,3 +52,6 @@
 - Baekjoon 5719 **거의 최단 경로**
   - 문제 : https://www.acmicpc.net/problem/5719
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/graph/baekjoon/T5719.java
+- Baekjoon 1774 **우주신과의 교감**
+  - 문제 : https://www.acmicpc.net/problem/1774
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/graph/baekjoon/T1774.java
