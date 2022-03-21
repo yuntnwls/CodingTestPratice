@@ -30,6 +30,9 @@
 - Baekjoon 2250 **트리의 높이와 너비**
   - 문제 : https://www.acmicpc.net/problem/2250
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/tree/T2250.java
+- Baekjoon 1987 **알파벳**
+  - 문제 : https://www.acmicpc.net/problem/1987
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/dfs/T1987.java
 
 ## Sorting
 - Programmers **가장 큰 수**
