@@ -33,6 +33,9 @@
 - Baekjoon 1987 **알파벳**
   - 문제 : https://www.acmicpc.net/problem/1987
   - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/dfs/T1987.java
+- Baekjoon 1759 **암호 만들기**
+  - 문제 : https://www.acmicpc.net/problem/1759
+  - 풀이 : https://github.com/yuntnwls/CodingTestPratice/blob/main/src/ctp/search/baekjoon/bruteforce/T1759.java
 
 ## Sorting
 - Programmers **가장 큰 수**
