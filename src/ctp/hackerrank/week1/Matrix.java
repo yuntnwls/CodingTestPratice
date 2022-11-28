@@ -31,6 +31,4 @@ public class Matrix {
 
         return sum;
     }
-
-    // https://ifuwanna.tistory.com/460
 }
