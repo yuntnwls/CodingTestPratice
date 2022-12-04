@@ -31,3 +31,5 @@ public class T1629 {
             return temp*a%c;
     }
 }
+
+//https://mygumi.tistory.com/319
